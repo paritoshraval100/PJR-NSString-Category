@@ -10,7 +10,7 @@ By using this NSString Category you can perform many NSString operation which yo
 or any class.
 
 
-HOW TO USE:
+How to use:
 =====================
 
 import this category in your controller by  #import "NSString+PJR.h" and you can perform all NSString operations given
