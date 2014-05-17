@@ -92,13 +92,13 @@ in this category like
     }
     
     
-    Contact
-
-    Paritosh Raval
+Contact
+=====================
+Paritosh Raval
     
     
-    License
-    
-    Paritosh Raval
+License
+=====================
+Paritosh Raval
 
 
